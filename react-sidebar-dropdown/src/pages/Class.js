@@ -71,6 +71,9 @@ const Class = () => {
 
   //fifth
   //sixth
+
+  //seventh
+  //eight
    const classheading={
         display:"flex",
         width:"100%",

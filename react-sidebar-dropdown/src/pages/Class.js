@@ -66,12 +66,12 @@ const Class = () => {
     
   },[]);
   //third
-<<<<<<< HEAD
+//  HEAD
   //fourth
-=======
+
   //fifth
->>>>>>> 65c099544dac71285f05c776e08812ed79d555a0
-    const classheading={
+  //sixth
+   const classheading={
         display:"flex",
         width:"100%",
         height:"15%",
